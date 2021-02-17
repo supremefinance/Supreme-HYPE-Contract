@@ -8,5 +8,5 @@
 ## Uniswap pool lp contract Kovan Testnet
 -HYPE-ETH 0x64bc754e16224ea640dae3fabb07d7a2f8faaf6b
 
-## Deployed single stake token contract 
+## Deployed single stake token contract Kovan Testnet
 -Toy Token 0x24b4e35ab2e4543d27ef84c6640ea695799a2267

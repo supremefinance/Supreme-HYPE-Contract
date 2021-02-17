@@ -2,6 +2,7 @@
 
 ## Deployed Contracts Kovan Testnet
 -HYPE Token 0x01703685AEf0d1CE75Ec22b64588611efF55c4f0 
+
 -HYPE Admin 0xeCd722a3Ab98709541d9090F0d87Bd8e0C45dE0C
 
 ## Uniswap pool lp contract Kovan Testnet

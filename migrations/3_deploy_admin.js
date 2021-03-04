@@ -13,9 +13,9 @@ async function deployToken(deployer, network) {
   await deployer.deploy(HYPEAdmin,
       HYPEToken.address,
     'devaddress',
-    '50000000000000000000',
-    '23502480',
-    '23512480'
+    '15000000000000000000',
+    '11964725',
+    '13692725'
   );
 
 }

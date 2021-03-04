@@ -5,7 +5,7 @@
 
 -HYPE Admin 0xEDE1537412E59C80C4F4af670202462585fB0897
 
-## Uniswap pool lp contract
+## Uniswap lp pool contracts
 -HYPE-ETH 0x1712240b227aaff86144a7275f3ec9fd264584ba
 
 -ETH-USDT 0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852

@@ -1,12 +1,19 @@
 # supreme_Contract
 
-## Deployed Contracts Kovan Testnet
--HYPE Token 0x01703685AEf0d1CE75Ec22b64588611efF55c4f0 
+## Deployed Contracts
+-HYPE Token 0x4ff7c227e1e7bd59351de8635381c379750a8040 
 
--HYPE Admin 0xeCd722a3Ab98709541d9090F0d87Bd8e0C45dE0C
+-HYPE Admin 0xEDE1537412E59C80C4F4af670202462585fB0897
 
-## Uniswap pool lp contract Kovan Testnet
--HYPE-ETH 0x64bc754e16224ea640dae3fabb07d7a2f8faaf6b
+## Uniswap pool lp contract
+-HYPE-ETH 0x1712240b227aaff86144a7275f3ec9fd264584ba
 
-## Deployed single stake token contract Kovan Testnet
--Toy Token 0x24b4e35ab2e4543d27ef84c6640ea695799a2267
+-ETH-USDT 0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852
+
+-LINK-ETH 0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974
+
+-SUSHI-ETH 0xce84867c3c02b05dc570d0135103d3fb9cc19433
+
+-UNI-ETH 0xd3d2e2692501a5c9ca623199d38826e513033a17
+
+-POLS-ETH 0xffa98a091331df4600f87c9164cd27e8a5cd2405

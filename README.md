@@ -1,4 +1,4 @@
-# supreme_Contract
+# HYPE Contract
 
 ## Deployed Contracts
 -HYPE Token 0x4ff7c227e1e7bd59351de8635381c379750a8040 
